@@ -1,0 +1,25 @@
+#  ______              _   ____  _            _             
+# |  ____|            | | |  _ \| |          | |            
+# | |__ ___   ___   __| | | |_) | | ___   ___| | _____ _ __ 
+# |  __/ _ \ / _ \ / _` | |  _ <| |/ _ \ / __| |/ / _ \ '__|
+# | | | (_) | (_) | (_| | | |_) | | (_) | (__|   <  __/ |   
+# |_|  \___/ \___/ \__,_| |____/|_|\___/ \___|_|\_\___|_|   
+#                                                           
+#                    By HenryDM                                                          
+
+noHungry: false
+
+# Worlds where the plugin should work
+# Protip: You Can Change This
+
+worlds:
+- World #Example
+- Lobby #Example
+- Duels #Example
+
+# Do you still want certain foods to be allowed? So write here which ones you want
+# protip: If you don't want allowed foods, leave it as: allowedFood: []
+
+allowedFood:
+- apple #Example
+- steak #Example

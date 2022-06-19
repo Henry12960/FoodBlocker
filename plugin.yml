@@ -1,0 +1,14 @@
+name: FoodBlocker
+main: HenryDM\FoodBlocker\Main
+api: [4.0.0]
+version: 2.1.0
+author: [HenryDM, Davy]
+description: Simple Plugin To Block Players From Eating Specific Foods In Certain Worlds
+website: https://github.com/Henry12960
+
+permissions:
+  foodblocker.bypass:
+    description: Allow Player To Bypass Plugin Checker
+    default: op 
+    
+    

@@ -1,0 +1,23 @@
+# NoFood plugin configuration file
+
+# No hungry feature: true|false
+# (NoFood feature is always on)
+#noHungry: false
+noHungry: false
+
+# World folder name where the feature(s) is enabled
+# (case-sensitive)
+#worlds:
+#- worldName1
+#- worldName2
+worlds:
+- world
+- lobby
+
+# Consumable food
+# (or leave empty to make all food can't be eaten)
+#allowedFood:
+#- steak
+#- raw_chicken
+#- apple
+allowedFood: []
