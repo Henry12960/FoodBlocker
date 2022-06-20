@@ -15,7 +15,7 @@ class Main extends PluginBase implements Listener {
 	public function onEnable() : void { 
 	
 		$this->getServer()->getPluginManager()->registerEvents($this, $this);
-	    $this->getServer()->getLogger()->info("  ______              _   ____  _            _             ");
+	        $this->getServer()->getLogger()->info("  ______              _   ____  _            _             ");
 		$this->getServer()->getLogger()->info(" |  ____|            | | |  _ \| |          | |            ");
 		$this->getServer()->getLogger()->info(" | |__ ___   ___   __| | | |_) | | ___   ___| | _____ _ __ ");
 		$this->getServer()->getLogger()->info(" |  __/ _ \ / _ \ / _` | |  _ <| |/ _ \ / __| |/ / _ \ '__|");
