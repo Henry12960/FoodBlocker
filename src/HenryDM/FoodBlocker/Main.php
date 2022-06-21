@@ -22,7 +22,6 @@ class Main extends PluginBase implements Listener {
 		$this->getServer()->getLogger()->info(" | | | (_) | (_) | (_| | | |_) | | (_) | (__|   <  __/ |   ");
 		$this->getServer()->getLogger()->info(" |_|  \___/ \___/ \__,_| |____/|_|\___/ \___|_|\_\___|_|   ");
 		$this->getServer()->getLogger()->info("");
-		$this->getServer()->getLogger()->info("[FoodBlocker] Plugin Enable - By HenryDM");
 		$this->saveDefaultConfig();
 	}
 
